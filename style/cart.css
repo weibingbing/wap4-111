@@ -1,0 +1,245 @@
+.shangpin{
+    margin-top: 1.04rem;
+    width: 7.50rem;
+    height: 2.28rem;
+    border-bottom: 0.02rem dashed #c7c7c7;
+    position: relative;
+    padding-bottom: 2.6rem;
+}
+.shangpin .ks{
+    width: 100%;
+    height: 100%;
+}
+.shangpin .ks ul li .tu{
+    width: 100%;
+    height: 100%;
+}
+.shangpin .ks ul li .tu .tuyi{
+    width: 0.45rem;
+    height: 0.45rem;
+    position: absolute;
+    left: 0.24rem;
+    top: 0.90rem;
+}
+.shangpin .ks ul li .tu .tuer{
+    width: 1.56rem;
+    height: 1.56rem;
+    position: absolute;
+    left: 0.90rem;
+    top: 0.30rem;
+    border: 0.02rem solid #f1f1f1;
+}
+.shangpin .ks ul li .zi{
+    width: 2.44rem;
+    height: 1.18rem;
+    position: absolute;
+    left: 2.74rem;
+    top: 0.52rem;
+}
+.shangpin .ks ul li .zi h5{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    font-size: 0.28rem;
+    font-weight: 500;
+}
+.shangpin .ks ul li .zi p{
+    color: #a9a9a9;
+    font-size: 0.28rem;
+    margin-top: 0.15rem;
+}
+.shangpin .ks ul li .youzi{
+    font-size: 0.30rem;
+    color: #e9202a;
+    position: absolute;
+    top: 1rem;
+    right: 0.2rem;
+}
+.shangpin .ks ul li .youxia{
+    width: 1.56rem;
+    height: 0.52rem;
+    background: #e4e4e4;
+    position: absolute;
+    top: 1.40rem;
+    right: 0.2rem;
+}
+.shangpin .ks ul li .youxia .jian{
+    float: left;
+    margin-left: 0.16rem;
+    font-size: 0.40rem;
+}
+.shangpin .ks ul li .youxia .biankuang{
+    width: 0.54rem;
+    height: 0.42rem;
+    background: #ffffff;
+    border-radius: 0.04rem;
+    float: left;
+    font-size: 0.30rem;
+    text-align: center;
+    margin-left: 0.14rem;
+    margin-top: 0.04rem;
+}
+.shangpin .ks ul li .youxia .jia{
+    float: left;
+    font-size: 0.30rem;
+    margin-left: 0.16rem;
+}
+
+
+
+
+.shangpiner{
+    margin-top: 0.5rem;
+    width: 7.50rem;
+    height: 2.28rem;
+    border-bottom: 0.02rem dashed #c7c7c7;
+    position: relative;
+    padding-bottom: 2.6rem;
+}
+.shangpiner .ks{
+    width: 100%;
+    height: 100%;
+}
+.shangpin .ks ul li .tu{
+    width: 100%;
+    height: 100%;
+}
+.shangpiner .ks ul li .tu .tuyi{
+    width: 0.45rem;
+    height: 0.45rem;
+    position: absolute;
+    left: 0.24rem;
+    top: 0.90rem;
+}
+.shangpiner .ks ul li .tu .tuer{
+    width: 1.56rem;
+    height: 1.56rem;
+    position: absolute;
+    left: 0.90rem;
+    top: 0.30rem;
+    border: 0.02rem solid #f1f1f1;
+}
+.shangpiner .ks ul li .zi{
+    width: 2.44rem;
+    height: 1.18rem;
+    position: absolute;
+    left: 2.74rem;
+    top: 0.52rem;
+}
+.shangpiner .ks ul li .zi h5{
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    font-size: 0.28rem;
+    font-weight: 500;
+}
+.shangpiner .ks ul li .zi p{
+    color: #a9a9a9;
+    font-size: 0.28rem;
+    margin-top: 0.15rem;
+}
+.shangpiner .ks ul li .youzi{
+    font-size: 0.30rem;
+    color: #e9202a;
+    position: absolute;
+    top: 1rem;
+    right: 0.2rem;
+}
+.shangpiner .ks ul li .youxia{
+    width: 1.56rem;
+    height: 0.52rem;
+    background: #e4e4e4;
+    position: absolute;
+    top: 1.40rem;
+    right: 0.2rem;
+}
+.shangpiner .ks ul li .youxia .jian{
+    float: left;
+    margin-left: 0.16rem;
+    font-size: 0.40rem;
+}
+.shangpiner .ks ul li .youxia .biankuang{
+    width: 0.54rem;
+    height: 0.42rem;
+    background: #ffffff;
+    border-radius: 0.04rem;
+    float: left;
+    font-size: 0.30rem;
+    text-align: center;
+    margin-left: 0.14rem;
+    margin-top: 0.04rem;
+}
+.shangpiner .ks ul li .youxia .jia{
+    float: left;
+    font-size: 0.30rem;
+    margin-left: 0.16rem;
+}
+.dibu{
+    width: 7.50rem;
+    height: 0.98rem;
+    background: black;
+    margin-top: 6.24rem;
+    position: relative;
+    position: fixed;
+    bottom: 0rem;
+    left: 0rem;
+    right: 0rem;
+}
+.dibu .zuo{
+    width: 100%;
+    height: 100%;
+}
+.dibu .zuo img{
+    width: 0.45rem;
+    height: 0.45rem;
+    margin-top: 0.26rem;
+    display: inline-block;
+    margin-left: 0.20rem;
+    float: left;
+}
+.dibu .zuo span{
+    float: left;
+    color: #eeeeee;
+    font-size: 0.28rem;
+    margin-top: 0.30rem;
+    margin-left: 0.20rem;
+}
+.dibu .zhong{
+    width: 2.68rem;
+    height: 0.58rem;
+}
+.dibu .zhong .he{
+    color: #eeeeee;
+    font-size: 0.28rem;
+    position: absolute;
+    top: 0.20rem;
+    left: 1.74rem;
+}
+.dibu .zhong .qian{
+    color: #e9202a;
+    font-size: 0.28rem;
+    position: absolute;
+    top: 0.22rem;
+    left: 2.42rem;
+}
+.dibu .zhong p{
+    color: #6a6a6a;
+    font-size: 0.22rem;
+    position: absolute;
+    top: 0.58rem;
+    left: 1.74rem;
+}
+.dibu .you{
+    width: 2.44rem;
+    height: 0.98rem;
+    color: #eeeeee;
+    font-size: 0.30rem;
+    line-height: 0.98rem;
+    position: absolute;
+    right: 0rem;
+    top: 0rem;
+    background: #e9202a;
+    text-align: center;
+}

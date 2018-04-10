@@ -1,0 +1,86 @@
+body{ width: 100%;
+    height:100%; position:absolute;}
+.zz{
+    width: 100%;
+    height: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.zz .kkss{
+    width: 1.92rem;
+    position: absolute;
+    left:0;
+    top:0.88rem;
+    bottom: 1rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+}
+.zz .kkss .c{
+    width: 1.92rem;
+    height: 1.08rem;
+    border-left: 0.06rem solid #e9202a;
+    color: #e9202a;
+    text-align: center;
+    line-height: 1.08rem;
+    background: #f6f6f6;
+}
+.zz .kkss .n{
+    width: 1.92rem;
+    height: 1.08rem;
+    border: 0.02rem solid #e0e0e0;
+    background: #f6f6f6;
+    color: #0d0d0d;
+    text-align: center;
+    line-height: 1.08rem;
+}
+.zz .you{
+    width: 5.46rem;
+    position: absolute;
+    right:0;
+    top:0.88rem;
+    bottom: 1rem;
+    overflow-y: scroll;
+    overflow-x: hidden;
+    padding-top: 0.3rem;
+
+}
+.zz .you .right_con{
+    width: 100%;
+    height: 100%;
+}
+.zz .you .right_con .list{
+    width: 100%;
+}
+.zz .you .right_con .list ul{
+    width: 100%;
+}
+.zz .you .right_con .list ul li{
+    width: 32.3%;
+    height: 1.5rem;
+    float: left;
+    margin-right: 1%;
+    margin-top: 0.3rem;
+}
+.zz .you .right_con .list ul li a{
+    width: 100%;
+    height: 100%;
+    display: block;
+    overflow: hidden;
+}
+.zz .you .right_con .list ul li a .yf{
+    width: 1.28rem;
+    height: 1.02rem;
+}
+.zz .you .right_con .list ul li a .z{
+    margin-left: 0.02rem;
+}
+.zz .you .right_con .list ul li a img{
+    width: 1.12rem;
+    height: 0.67rem;
+}
+.zz .you .right_con .list ul li a p{
+    font-size: 0.24rem;
+    margin-left: 0.3rem;
+    margin-top: 0.2rem;
+}

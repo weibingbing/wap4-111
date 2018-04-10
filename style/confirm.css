@@ -1,0 +1,122 @@
+.xm{
+    width: 100%;
+    height: 100%;
+    background: #ececec;
+    margin-top: 0.88rem;
+    padding-bottom: 11rem;
+    position: relative;
+}
+.xm .yi{
+    width: 7.50rem;
+    height: 1.06rem;
+    background: white;
+    font-size: 0.36rem;
+    color: #d8223d;
+    line-height: 1.06rem;
+    padding-left: 1.32rem;
+    position: absolute;
+    top: 0.30rem;
+}
+.xm .er{
+    width: 7.50rem;
+    height: 1.06rem;
+    background: white;
+    font-size: 0.30rem;
+    color: #333333;
+    line-height: 1.06rem;
+    padding-left: 1.32rem;
+    position: absolute;
+    top: 1.38rem;
+}
+.xm .san{
+    width: 7.50rem;
+    height: 1.06rem;
+    background: white;
+    font-size: 0.30rem;
+    color: #333333;
+    line-height: 1.06rem;
+    padding-left: 1.32rem;
+    position: absolute;
+    top: 2.46rem;
+}
+.xm .san span{
+    color: #d8223d;
+    font-size: 0.30rem;
+}
+.xm .si{
+    width: 7.50rem;
+    height: 1.06rem;
+    background: white;
+    position: absolute;
+    top: 3.86rem;
+    position: relative;
+}
+.xm .si img{
+    width: 0.76rem;
+    height: 0.76rem;
+    display: inline-block;
+    margin-top: 0.16rem;
+    margin-left: 1.32rem;
+}
+.xm .si span{
+    font-size: 0.30rem;
+    color: #333333;
+    padding-left: 0.20rem;
+    position: absolute;
+    top: 0.32rem;
+}
+.xm .si .yuan{
+    color: #eeeeee;
+    width: 0.42rem;
+    height: 0.42rem;
+    border-radius: 50%;
+    background: #f42238;
+    text-align: center;
+    position: absolute;
+    right: 0.86rem;
+    top: 0.35rem;
+    font-size: 0.32rem;
+}
+.xm .wu{
+    width: 7.50rem;
+    height: 1.06rem;
+    background: white;
+    position: absolute;
+    top: 3.88rem;
+    position: relative;
+}
+.xm .wu img{
+    width: 0.76rem;
+    height: 0.76rem;
+    display: inline-block;
+    margin-top: 0.16rem;
+    margin-left: 1.32rem;
+}
+.xm .wu span{
+    font-size: 0.30rem;
+    color: #333333;
+    padding-left: 0.20rem;
+    position: absolute;
+    top: 0.32rem;
+}
+.xm .wu .yuan{
+    width: 0.42rem;
+    height: 0.42rem;
+    border-radius: 50%;
+    position: absolute;
+    right: 0.86rem;
+    top: 0.35rem;
+    border: 0.02rem solid #b6b6b6;
+}
+.xm .button input{
+    width: 5.30rem;
+    height: 1.08rem;
+    background: #ee2837;
+    color: #eeeeee;
+    font-size: 0.40rem;
+    text-align: center;
+    line-height: 1.08rem;
+    position: absolute;
+    top: 6.8rem;
+    left: 1.12rem;
+}
